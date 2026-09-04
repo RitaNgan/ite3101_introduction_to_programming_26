@@ -1,4 +1,4 @@
-skill_completed = 
+skill_completed = Python Syntax
 exercises_completed
 points_per_exercise
 point_total
