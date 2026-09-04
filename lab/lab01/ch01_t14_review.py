@@ -1,2 +1,3 @@
 skill_completed
 exercises_completed
+points_per_exercise
