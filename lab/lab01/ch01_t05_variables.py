@@ -1,1 +1,3 @@
-import date
+import datetime
+
+today_date
