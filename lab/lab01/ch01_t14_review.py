@@ -1,1 +1,2 @@
 skill_completed
+exercises_completed
