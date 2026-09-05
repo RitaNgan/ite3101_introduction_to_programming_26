@@ -1,3 +1,3 @@
 parrot = "Norwegian Blue"
 
-print(parrot)
+print(len(parrot)
