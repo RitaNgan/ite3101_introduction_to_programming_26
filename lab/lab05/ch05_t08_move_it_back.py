@@ -1,4 +1,4 @@
-pyg = 'ay'
+ pyg = 'ay'
 
 original = input('Enter a word:')
 
