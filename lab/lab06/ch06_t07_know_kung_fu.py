@@ -1,2 +1,1 @@
-
 print（sqrt（25）
