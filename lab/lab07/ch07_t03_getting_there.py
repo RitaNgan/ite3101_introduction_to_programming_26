@@ -9,5 +9,5 @@ def plane_ride_cost(city: str) -> int:
     elif city == "Pittsburgh":
         return 222
     elif city == "Tampa":
-        return 220
+        return 475
 
