@@ -1,1 +1,2 @@
-ch06_t08_generic_imports.py
+from math
+print(math.sqrt(25))
