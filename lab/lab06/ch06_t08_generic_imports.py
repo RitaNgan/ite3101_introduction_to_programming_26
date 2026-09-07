@@ -1,3 +1,3 @@
-import sqrt
+import math
 
 print(math.sqrt(25))
