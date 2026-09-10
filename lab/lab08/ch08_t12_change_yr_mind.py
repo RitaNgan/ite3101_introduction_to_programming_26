@@ -8,7 +8,7 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
 
 # Removing the 'Unicorn' entry. (Unicorns are incredibly expensive.)
 del zoo_animals['Unicorn']
-
+ zoo_animals
 # Your code here!
 del zoo_animals['Sloth']
 
