@@ -8,7 +8,4 @@ dog = animals[3:6]
 
 
 # From the seventh character to the end
-frog = animals[6:3]
-frog = 
-cat = animals[:3]
-frog = 
+frog = animals[6:]
