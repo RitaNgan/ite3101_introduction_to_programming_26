@@ -1,6 +1,6 @@
 # Write your function below!
 
-from fizz_count(x:List)
+from (x:List)
 
 
 def fizz_count(x:List):
