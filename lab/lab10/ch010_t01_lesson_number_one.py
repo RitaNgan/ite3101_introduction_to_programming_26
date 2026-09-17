@@ -13,5 +13,9 @@ alice ={
 }
 
 tyler = {
-    
+     "name":"Lloyd",
+        "homework": [],
+        "quizzes": [],
+        "tests": []
+    }
 }
