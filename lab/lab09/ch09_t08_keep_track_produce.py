@@ -11,4 +11,4 @@ stock = {
     "pear": 15,
 }
 
-for key in pr
+for key in print 
