@@ -6,9 +6,8 @@ lloyd = {
 }
 
 alice ={
-     "name":"Lloyd",
-        "homework": [],
-        "quizzes": [],
-        "tests": []
-    }
+    "name":"Lloyd",
+    "homework": [],
+    "quizzes": [],
+    "tests": []
 }
