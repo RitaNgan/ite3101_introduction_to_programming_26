@@ -18,4 +18,3 @@ tyler = {
         "quizzes": [],
         "tests": []
     }
-}
