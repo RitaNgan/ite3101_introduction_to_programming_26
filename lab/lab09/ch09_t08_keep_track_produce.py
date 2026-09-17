@@ -11,4 +11,5 @@ stock = {
     "pear": 15,
 }
 
-for key in print 
+for key in prices:
+    
