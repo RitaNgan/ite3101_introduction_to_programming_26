@@ -1,4 +1,4 @@
-prices ={
+prices = {
     "banna": 4,
     "apple": 2,
     "orange": 1.5,
