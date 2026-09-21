@@ -54,3 +54,5 @@ def get_letter_grade(score: float) -> str:
         return "D"
     else:
         return "F"
+
+print(get_letter_grade(ge_average(lloyd)))
