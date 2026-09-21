@@ -20,7 +20,7 @@ tyler = {
 students = [lloyd, alice, tyler]
 
 for student in students:
-print(stu)
-print(stu)
+    print(stu)
+p   rint(stu)
 print(stu)
 print(stu)
