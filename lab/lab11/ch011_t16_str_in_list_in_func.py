@@ -1,4 +1,4 @@
-n = ["Michael", "Lieberman"]
+ n = ["Michael", "Lieberman"]
 # Add your function here
 
 
