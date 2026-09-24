@@ -5,7 +5,7 @@ n = ["Michael", "Lieberman"]
 
 
 def join_strings(words: List[str]) -> str:
-    return = ""
+    result = ""
     for word in words:
         return += word
     return result
