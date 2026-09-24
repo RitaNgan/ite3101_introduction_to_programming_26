@@ -7,7 +7,7 @@ n = [4, 5, 6]
 
 
 def join_lists(x: List[int], y: List[int]) -> List[int]:
-    return x = y
+    return x + y
 
 
 print(join_lists(m, n))
