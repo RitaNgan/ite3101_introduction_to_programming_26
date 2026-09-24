@@ -6,5 +6,6 @@ def flatten(lists:List[List[int]]) -> List[int]:
     for level1 in
         for level2 in level1:
             results.append(leve2)
-    re
+    return results
+
 # print(flatten(n))
