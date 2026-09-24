@@ -7,5 +7,6 @@ def join_strings(words: List[str])-> str:
     return =""
     for word in words:
         return += words
-    return rsult
+    return result
+
 # print(join_strings(n))
