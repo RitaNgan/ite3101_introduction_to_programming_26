@@ -9,5 +9,5 @@ def flatten(lists: List[List[int]]) -> List[int]:
         results.append(leve2)
     return results
 
-
+    12
 print(flatten(n))
