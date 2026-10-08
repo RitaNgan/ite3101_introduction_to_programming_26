@@ -1,2 +1,2 @@
 board = []
-for i in r
+for i in range
