@@ -1,1 +1,2 @@
-def median(list: list[int]) ->
+def median(list: list[int]) -> float:
+    
