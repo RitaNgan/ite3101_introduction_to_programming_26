@@ -1,3 +1,3 @@
 def median(list: list[int]) -> float:
-    sorted_list = sorted(list)
+    sorted_lst = sorted(list)
     if len(sorted_list) % 2 == 0:
