@@ -1,5 +1,5 @@
-def digit_sum(n: int)->int:
+def digit_sum(n: int) -> int:
     sum = 0
-    for chur in str(n):
+    for char in str(n):
         sum += int (char)
-    return sum
+    return total
