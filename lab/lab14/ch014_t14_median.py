@@ -1,1 +1,1 @@
-def median(list: L)
+def median(list: list[int])
