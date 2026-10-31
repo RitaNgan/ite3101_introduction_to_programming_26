@@ -1,3 +1,3 @@
 def censor(text:str,word:str) -> str:
     result =[]
-    for s in text.spl
+    for s in text.split
