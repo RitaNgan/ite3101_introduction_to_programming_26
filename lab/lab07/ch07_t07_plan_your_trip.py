@@ -8,7 +8,7 @@ def hotel_cost(nights: int) -> int:
     return 140 * nights
 
 
-def plane_ride_cost(city: str) -> int:flo
+def plane_ride_cost(city: str) -> int:
     if city == "Charlotte":
         return 183
     elif city == "Tampa":
@@ -35,3 +35,4 @@ def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
 if __name__ == '__main__':
     # Change below line
     print(trip_cost("Los Angeles", 5, 600))
+    tri
